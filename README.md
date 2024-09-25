@@ -1,11 +1,11 @@
 A Mandelbrot viewer with zoom and pan for the TTGO ESP32 T-Display 1.14.
 
-Features
-Zoom in and out of the Mandelbrot set
-Pan across the fractal in all directions
-Interactive menu to control zoom and pan
+Features\n
+Zoom in and out of the Mandelbrot set\n
+Pan across the fractal in all directions\n
+Interactive menu to control zoom and pan\n
 
-Setup
+Setup\n
 Ensure the TFT_eSPI library is properly configured for the TTGO T-Display:
   Navigate to the TFT_eSPI library folder (Arduino/libraries/TFT_eSPI/User_Setup.h).
   Edit User_Setup.h to match the TTGO T-Display 1.14 configuration.
